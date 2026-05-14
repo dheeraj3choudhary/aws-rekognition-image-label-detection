@@ -21,7 +21,6 @@ Detect and label objects in images using Amazon Rekognition, FastAPI, and Stream
 </p>
 </div>
 
----
 
 ## Tech Stack
 
@@ -30,7 +29,6 @@ Detect and label objects in images using Amazon Rekognition, FastAPI, and Stream
 - **AI/ML**: Amazon Rekognition (`detect_labels`)
 - **Language**: Python 3.11
 
----
 
 ## Project Structure
 
@@ -50,15 +48,11 @@ aws-rekognition-image-label-detection/
 └── .gitignore
 ```
 
----
-
 ## Prerequisites
 
 - Python 3.11+
 - Docker & Docker Compose (optional)
 - AWS Account with an IAM user having `AmazonRekognitionReadOnlyAccess` policy
-
----
 
 ## AWS Setup
 
@@ -76,8 +70,6 @@ AWS_ACCESS_KEY_ID=your_access_key_here
 AWS_SECRET_ACCESS_KEY=your_secret_key_here
 AWS_REGION=us-east-1
 ```
-
----
 
 ## Running Locally (Without Docker)
 
@@ -100,8 +92,6 @@ streamlit run app.py
 ```
 
 Frontend runs at: `http://localhost:8501`
-
----
 
 ## Running with Docker
 
