@@ -2,7 +2,9 @@
 
 # AWS Rekognition For Image Label Detection
 Detect and label objects in images using Amazon Rekognition, FastAPI, and Streamlit.
-<img width="2816" height="985" alt="Rekognition" src="https://github.com/user-attachments/assets/49ba83c5-4fd5-43b2-a374-989a3f9a318e" />
+<img width="1280" height="443" alt="apiproject1" src="https://github.com/user-attachments/assets/6396d42e-6753-4c34-8a40-c6daba314580" />
+
+
 
 <a href="https://www.buymeacoffee.com/Dheeraj3" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50">
